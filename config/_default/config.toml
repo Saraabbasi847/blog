@@ -1,0 +1,23 @@
+baseURL = 'https://saraabbasi847.github.io/weblog/'
+copyright = "{year} Shiraz" # To make 2007 - 2022. Just add before {year} example: 2007 - {year}
+languageCode = 'en-us'
+theme = 'lowkey'
+title = 'Sara Abbasi'
+enableRobotsTXT = true
+
+# List Config
+summaryLength= 15
+paginate = 5
+
+[params]
+      favicon = "/img/logo.png"
+
+[markup.highlight]
+      codeFences = false
+      guessSyntax = false
+      hl_Lines = ""
+      lineNoStart = 1
+      lineNos = false
+      lineNumbersInTable = false
+      tabWidth = 4
+      noClasses = false
