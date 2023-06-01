@@ -2,6 +2,6 @@
 title: "Hi there, I'm Sara!"
 draft: false
 ---
-I'm a Computer Architecture student with a passion for technology and innovation. I love exploring new AI and IOTtools, and I'm always on the lookout for the trends in the tech industry. When I'm not research or working, you can usually find me riding, reading a good book ,painting or practicing on matte in two.
+I'm a Computer Architecture student with a passion for technology and innovation. I love exploring new Cloud and IOT tools, and I'm always on the lookout for the trends in the tech industry. When I'm not working, you can usually find me riding, reading a book ,painting or practicing mate in two.
 
-Currently i'm a masters student in Dr. Khunjush lab at [Shiraz University](https://shirazu.ac.ir/en/home). Happy with working on microservices and cloud computing tools. 
+i'm Currently Master's student in Dr. Khunjush's lab at [Shiraz University](https://shirazu.ac.ir/en/home). I enjoy with working on microservices and cloud computing tools. 
