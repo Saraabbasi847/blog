@@ -5,7 +5,7 @@ This is my personal blog, built with Hugo, a static site generator written in Go
 ## Running the Blog
 
 This blog is based on Lowkey Hugo theme.
-You can discovered more about this theme, visit https://github.com/nixentric/Lowkey-Hugo-Theme
+You can discovered more about this theme by visiting https://github.com/nixentric/Lowkey-Hugo-Theme
 
 To run the blog locally on your computer, you'll need to follow these steps:
 
