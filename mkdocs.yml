@@ -1,0 +1,19 @@
+site_name: Sara
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.footer
+markdown_extensions:
+  - attr_list
+  - def_list
+plugins:
+  - blog
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://fosstodon.org/@squidfunk
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<saraabbasi847@gmail.com>
+copyright: Copyright &copy; 2024 Sara Abbasi
