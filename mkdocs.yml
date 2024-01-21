@@ -9,7 +9,8 @@ markdown_extensions:
   - attr_list
   - def_list
 plugins:
-  - blog
+  - blog:
+      post_excerpt_separator: <!-- more -->
 extra:
   social:
     - icon: fontawesome/brands/linkedin
