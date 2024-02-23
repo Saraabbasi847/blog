@@ -1,6 +1,8 @@
 site_name: Sara
 theme:
   name: material
+  direction: rtl
+  language: fa
   features:
     - navigation.tabs
     - navigation.tabs.sticky
