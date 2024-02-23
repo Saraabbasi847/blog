@@ -1,8 +1,9 @@
 site_name: Sara
 theme:
   name: material
-  direction: rtl
-  language: fa
+  direction: 
+  font:
+    code: Vazirmatn
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -19,4 +20,13 @@ extra:
       link: https://fosstodon.org/@squidfunk
     - icon: fontawesome/solid/paper-plane
       link: mailto:<saraabbasi847@gmail.com>
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+      direction: ltr
+    - name: Persian
+      link: /fe/
+      lang: fe
+      direction: rtl
 copyright: Copyright &copy; 2024 Sara Abbasi
